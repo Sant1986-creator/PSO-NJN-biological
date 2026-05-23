@@ -5,7 +5,7 @@
 
 Companion code for the article:
 
-> Ortiz, N.<sup>1†</sup>, Quinga, S.<sup>1</sup>, Quinga, M.<sup>2</sup>, Castro, L.<sup>1</sup>, Socasi-Paucar, D.<sup>3</sup>
+> Ortiz, N.<sup>1†</sup>, Quinga, S.<sup>1</sup>, Quinga, M.<sup>2</sup>, Castro, L.<sup>1</sup>, Socasi, D.<sup>3</sup>
 > **"A Hybrid PSO–Fifth Order Iterative Technique for Nonlinear Systems
 > with Applications to Biological Models"**
 > *Computational & Applied Mathematics*, Springer, 2026 (submitted).
@@ -121,7 +121,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{ortiz2026psonjn,
   author  = {Ortiz, Nury and Quinga, Santiago and Quinga, Moisés and
-             Castro, Lucía and Socasi-Paucar, Darwin},
+             Castro, Lucía and Socasi, Darwin},
   title   = {A Hybrid {PSO}--Fifth Order Iterative Technique for
              Nonlinear Systems with Applications to Biological Models},
   journal = {Computational \& Applied Mathematics},
